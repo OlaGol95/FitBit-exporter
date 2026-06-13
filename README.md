@@ -31,4 +31,3 @@ od_v1, do_v1
 
 Analogicznie dla `v3`, `v4`, `v6`.
 
-Nie dodawaj do repozytorium prywatnych plikow ZIP, CSV ani baz z danymi pacjentow.
